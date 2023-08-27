@@ -5,7 +5,7 @@ In this project, we analyse the performance of two well-known sort- ing algorith
 Please ⭐ this repo if you think this is helpful.
 
 ## Abstract
-In this paper, we analyse the performance of two well-known sort-
+In this project, we analyse the performance of two well-known sort-
 ing algorithms, Insertion Sort and Merge Sort. We benchmark the
 performance of the different algorithms in the worst, average and
 best case. We compare the results from the benchmark to the theo-
